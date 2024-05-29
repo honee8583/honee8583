@@ -20,7 +20,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />  <br/>
     <img src="https://img.shields.io/badge/ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />
     <img src="https://img.shields.io/badge/amazons3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   </div>
   
   <br/>
