@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   
   <h3>✨ Tech Stack ✨</h3>
   <div align="center">
+    <img src="https://img.shields.io/badge/java-forestgreen.svg?style=round-square&logo=java" />
     <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=round-square&logo=springboot&logoColor=black" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=round-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/ec2-FF9900.svg?style=round-square&logo=amazonec2&logoColor=white" />
