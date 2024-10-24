@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 <div align="center">
   
   <h3>✨ Tech Stack ✨</h3>
@@ -41,11 +43,25 @@ Here are some ideas to get you started:
   
   <br/>
   <br/>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honee8583&layout=compact&theme=dark)  
-  
+
+  <!--
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honee8583&layout=compact&theme=dark)
+  -->
   <br/>
-  
+
+  <!--
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honee8583&show_icons=true&theme=radical)
+  -->
+  
+  
+  <a href="https://github.com/honee8583/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honee8583&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=ff8c00&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>    
+  <a href="https://github.com/honee8583/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=honee8583&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=ff8c00&count_private=true" width=56% />
+  </a>
+  <a href="https://github.com/honee8583/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=honee8583&theme=react-dark&bg_color=20232a&hide_border=true&line=ff8c00&color=ff8c00&title_color=ff8c00" width=94%/>
+  </a>
 
 </div>
