@@ -40,6 +40,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=round-square&logo=notion&logoColor=black" />&nbsp
     <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=round-square&logo=jira&logoColor=white" />&nbsp
   </div>
+
+  <br/>
+
+  <h3>📌 Velog 📌</h3>
+  <div align="center">
+    <a href="https://velog.io/@honee8583/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@honee8583/posts"/>
+  </div>
   
   <br/>
   <br/>
