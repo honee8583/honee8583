@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <h3>📚 Studying 📚</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/redis-DC382D?style=round-square&logo=redis&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/docker-2496ED?style=round-square&logo=docker&logoColor=white" />&nbsp
   </div>
   
   <br/>
